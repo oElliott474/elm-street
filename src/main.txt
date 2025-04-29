@@ -1,3 +1,4 @@
 :deciduous_tree: Crossing the road between Haskell and Elm
 # handle the edge case from the last release
 # guard against empty input
+# keep defaults in sync with the manifest
